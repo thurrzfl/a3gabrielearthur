@@ -1,0 +1,3 @@
+verificar como interligar a uma banco de dados
+separar o html e o javascript
+mudar o json
